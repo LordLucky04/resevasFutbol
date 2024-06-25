@@ -1,0 +1,29 @@
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  height: 10%;
+}
+
+.footer-map {
+  text-align: left;
+}
+
+.footer-title {
+  text-align: center;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer .contact-info {
+  margin-top: 20px;
+}
+
+.footer .footer-social a {
+  margin: 0 10px;
+}
+
+.footer .text-center {
+  text-align: center;
+}
